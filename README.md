@@ -6,4 +6,4 @@ Foram  usadas as bibliotecas de python: pandas, numpy, matplotlib e windrose.
 3 notebooks foram gerados:
 galinhos.ipynb - Vizualização da média de velocidade em m/s dos ventos por mês do período de 2018 a 2023
 galinhos_precipitacao.ipynb - Vizualização da precipitação em mm por mês do período de 2018 a 2023
-rosa_ventos_galinhos.ipynb - Vizualização de rosa dos ventos com velocidade em m/s e direção
+rosa_ventos_galinhos.ipynb - Vizualização de rosa dos ventos com velocidade em m/s e direção.
